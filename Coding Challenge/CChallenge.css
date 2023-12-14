@@ -1,0 +1,96 @@
+@import url('https://fonts.cdnfonts.com/css/Gilroy-Bold');
+@import url('https://fonts.cdnfonts.com/css/Gilroy-Light');
+body{
+    background-image:  url(background.jpg);
+    background-size: cover;
+    font-family: 'Gilroy-Bold', sans-serif;
+}
+.contenitore{
+
+   width: 50%;
+   background-color: #00000080;
+   margin: auto;
+   padding: 5%;
+   border-radius: 15px;
+  
+}
+
+header{
+
+    text-align: center;
+    color: lime;
+    font-size: 16px;
+    
+}
+
+h2{
+
+    margin-bottom: 0;
+    margin-top: 0;
+
+}
+
+
+#LIM{
+   
+    width: 27%;
+    
+
+}
+
+.buttons{
+
+    background-color: lime;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.tcompagnia{
+   
+   
+   font-size: 16px;
+   color: white;
+
+}
+
+.stato.posizione{
+
+   color: white;
+   font-family: 'Gilroy-Light', sans-serif;
+   font-size: 13px;
+}
+
+.giallo{
+
+   background-color: orange;
+   width: 35%;
+   height: 25px;
+   border-radius: 5px;
+
+}
+
+.verde{
+
+    background-color: lime;
+    width: 60%;
+    height: 25px;
+    border-radius: 5px;
+ 
+
+}
+
+.rosso{
+
+    background-color: red;
+    width: 15%;
+    height: 25px;
+    border-radius: 5px;
+ 
+
+}
+section{
+
+    margin-top: 15px;
+
+}
